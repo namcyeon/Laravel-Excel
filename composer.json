@@ -3,7 +3,6 @@
   "description": "Supercharged Excel exports and imports in Laravel",
   "license": "MIT",
   "keywords": [
-    "laravel",
     "php",
     "phpspreadsheet",
     "phpexcel",
